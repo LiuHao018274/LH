@@ -63,8 +63,8 @@ body {
 
 #code {
 	float: left;
-	width: 380px;
-	height: 400px;
+	width: 340px;
+	height: 440px;
 	color: #333;
 	font-family: "Consolas", "Monaco", "Bitstream Vera Sans Mono",
 		"Courier New", "sans-serif";
@@ -90,7 +90,7 @@ body {
 
 #code .comments {
 	color: #3f7f5f;
-	font-size: 22px
+	font-size: 24px
 }
 
 #copyright {
